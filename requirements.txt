@@ -1,0 +1,11 @@
+boto3==1.38.19
+groq==0.25.0
+langchain==0.3.25
+langchain_community==0.3.24
+langchain_huggingface==0.2.0
+pinecone==7.0.1
+psycopg2-binary==2.9.10
+python-dotenv==1.1.0
+streamlit==1.44.1
+transformers==4.50.3
+ 

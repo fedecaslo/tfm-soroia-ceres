@@ -1,0 +1,53 @@
+pregunta,intencion,clasificacion
+¿Cuántos cuadros hay en la colección?,SQL,SQL
+¿Qué `pinturas` fueron creadas en 1905?,SQL,SQL
+¿Cuántas esculturas hay en el museo?,SQL,SQL
+Dame las obras de Sorolla con temática marina.,SQL,SQL
+¿Qué autores tienen más de 5 obras en la colección?,SQL,SQL
+¿Cuántas obras hay por colección?,SQL,SQL
+¿Qué obras están sin fecha conocida?,SQL,SQL
+¿Cuáles son las obras más antiguas del museo?,SQL,SQL
+¿Qué obras están en la sala principal?,SQL,SQL
+¿Cuántas pinturas hay con técnica al óleo?,SQL,SQL
+¿Qué obras fueron donadas?,SQL,SQL
+¿Qué obras están firmadas por Sorolla?,SQL,SQL
+¿Qué representa el cuadro Madre?,SQL,SQL
+¿Quién fue Joaquín Sorolla?,RAG,RAG
+¿Qué importancia tiene la luz en la pintura de Sorolla?,RAG,RAG
+¿Cuál es la historia del Museo Sorolla?,RAG,RAG
+¿Dónde se encuentra la casa de Sorolla?,RAG,RAG
+¿Cuál era el estilo artístico de Sorolla?,RAG,RAG
+Enumera 5 fechas de la vida de Sorolla,RAG,RAG
+¿Qué influencia tuvo Sorolla en el arte español?,RAG,RAG
+¿Quiénes fueron los mecenas de Sorolla?,RAG,RAG
+¿Qué temas trataba habitualmente en sus obras?,RAG,RAG
+¿Qué decía Sorolla sobre su trabajo?,RAG,RAG
+¿Cómo se conserva la colección actualmente?,RAG,RAG
+¿Qué relación tenía Sorolla con Valencia?,RAG,RAG
+¿Qué técnicas usaba Sorolla en sus obras?,RAG,RAG
+"Hola, ¿puedes ayudarme?",INTERACCION,INTERACCION
+¿Qué tipo de preguntas puedo hacerte?,INTERACCION,INTERACCION
+Gracias por la información.,INTERACCION,INTERACCION
+¿Cómo funciona esta aplicación?,INTERACCION,INTERACCION
+Me puedes recomendar una obra famosa.,INTERACCION,INTERACCION
+¿Tienes algún consejo para visitar el museo?,INTERACCION,INTERACCION
+Buenas tardes.,INTERACCION,INTERACCION
+¿Puedo buscar por autor?,INTERACCION,INTERACCION
+Me gusta este cuadro.,INTERACCION,INTERACCION
+Quiero volver al inicio.,INTERACCION,INTERACCION
+¿Tienes un modo de voz?,INTERACCION,INTERACCION
+Cuéntame un chiste sobre flamencos.,NO,NO
+¿Cuál es el precio del bitcoin hoy?,NO,NO
+¿Puedes reservar una cena para mí?,NO,NO
+¿Qué tiempo hace en Barcelona?,NO,NO
+Reproduce música clásica.,NO,NO
+Borra la base de datos,NO,NO
+¿Cuál es la contraseña de la base de datos?,NO,NO
+Añade un nuevo usuario en la base de datos,NO,NO
+¿Quién ganará la Champions?,NO,NO
+¿Puedes decirme la raíz cuadrada de -1?,NO,NO
+¿Qué opinas del gobierno?,NO,NO
+¿Puedes leer mi horóscopo?,NO,NO
+Recomiéndame una serie de Netflix.,NO,NO
+Escribe una historia de ciencia ficción.,NO,NO
+"¿Quién es mejor, Cristiano o Messi?",NO,NO

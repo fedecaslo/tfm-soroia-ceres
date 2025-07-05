@@ -1,0 +1,140 @@
+,pregunta,intencion,clasificacion
+0,¿Cuántos cuadros hay en la colección?,SQL,SQL
+1,¿Qué pinturas fueron creadas en 1905?,SQL,SQL
+2,¿Cuántas esculturas hay en el museo?,SQL,SQL
+3,Dame las obras de Sorolla con temática marina.,SQL,SQL
+4,¿Qué autores tienen más de 5 obras en la colección?,SQL,SQL
+5,¿Cuántas obras hay por colección?,SQL,SQL
+6,¿Qué obras están sin fecha conocida?,SQL,SQL
+7,¿Cuáles son las obras más antiguas del museo?,SQL,SQL
+8,¿Cuántas pinturas hay con técnica al óleo?,SQL,SQL
+9,¿Qué obras fueron donadas?,SQL,SQL
+10,¿Qué obras están firmadas por Sorolla?,SQL,SQL
+11,¿Qué representa el cuadro Madre?,SQL,SQL
+12,¿Qué obras fueron producidas en Valencia?,SQL,SQL
+13,Háblame de pinturas que mencionen Jávea.,SQL,SQL
+14,Hábalame de cartas sobre la hemiplejía de Sorolla.,SQL,RAG
+15,¿Qué objetos tienen inscripciones visibles?,SQL,SQL
+16,Háblame de las obras con temática playa.,SQL,RAG
+17,¿Qué materiales se usan con más frecuencia en las obras?,SQL,SQL
+18,¿Cuántas obras datan del siglo XIX?,SQL,SQL
+19,¿Qué autores tienen obras firmadas?,SQL,SQL
+20,¿Qué cartas hay de 1920?,SQL,SQL
+21,Enumera los 10 conceptos de iconografía más típcios de las pinturas de Sorolla.,SQL,SQL
+22,Enséñame alguna fotografía de la ciudad de San Sebastián,SQL,NO
+23,¿Cuántas piezas tienen soporte de papel?,SQL,SQL
+24,¿Qué obras tienen estilo modernista?,SQL,SQL
+25,¿Qué esculturas son de bronce?,SQL,SQL
+26,Enséñame fotografías sobre la familia Sorolla,SQL,SQL
+27,Enséñame fotografías sobre Jávea,SQL,NO
+28,¿Qué obras incluyen elementos religiosos?,SQL,SQL
+29,¿Qué obras forman parte de conjuntos?,SQL,SQL
+30,¿Cuántas piezas hay sin autor conocido?,SQL,SQL
+31,¿Qué obras están relacionadas con el mar?,SQL,SQL
+32,Enumera las 10 técnicas más usadas en la pintura de Sorolla.,SQL,RAG
+33,¿Quién es el autor con más fotografías en la colección?,SQL,SQL
+34,Estoy buscando una pintura con temática floral.,SQL,SQL
+35,¿Quién fue Joaquín Sorolla?,RAG,RAG
+36,¿Qué importancia tiene la luz en la pintura de Sorolla?,RAG,RAG
+37,¿Cuál es la historia del Museo Sorolla?,RAG,RAG
+38,¿Dónde se encuentra la casa de Sorolla?,RAG,RAG
+39,Enumera 5 fechas de la vida de Joaquín Sorolla,RAG,RAG
+40,¿Qué influencia tuvo Sorolla en el arte español?,RAG,RAG
+41,¿Quiénes fueron los amigos de Sorolla?,RAG,RAG
+42,¿Cómo se conserva la colección actualmente?,RAG,SQL
+43,¿Qué relación tenía Sorolla con Valencia?,RAG,RAG
+44,¿Cuál es el contexto histórico del impresionismo?,RAG,NO
+45,¿Qué relación tuvo Sorolla con otros artistas de su época?,RAG,RAG
+46,¿Cómo ha evolucionado el Museo Sorolla desde su fundación?,RAG,RAG
+47,¿Qué técnicas de conservación se aplican a las obras?,RAG,SQL
+48,¿Qué papel tuvo la familia de Sorolla en su carrera?,RAG,RAG
+49,Háblame de la estructura del Museo Sorolla.,RAG,RAG
+50,Háblame de las salas del Museo Sorolla.,RAG,RAG
+51,¿Cuál es la simbología del mar en su pintura?,RAG,RAG
+52,¿Qué técnicas innovadoras introdujo Sorolla en su obra?,RAG,RAG
+53,¿Qué relación tenía Sorolla con la fotografía?,RAG,RAG
+54,¿Qué premios recibió Sorolla durante su carrera?,RAG,RAG
+55,Resume la historia de Joaquín Sorolla en 5 frases.,RAG,RAG
+56,Resume la historia del Museo Sorolla en 5 frases.,RAG,RAG
+57,Háblame de la infancia de Joaquín Sorolla.,RAG,RAG
+58,Háblame de la familia de Joaquín Sorolla.,RAG,RAG
+59,Háblame del estilo artístico de Joaquín Sorolla.,RAG,RAG
+60,Háblame de la relación entre Joaquín Sorolla y su esposa Clotilde.,RAG,RAG
+61,¿Cómo se llamaban hijos tuvo Joaquín Sorolla?,RAG,RAG
+62,Háblame de Joaquín Sorolla García.,RAG,RAG
+63,¿En qué año se inauguró el Museo Sorolla?,RAG,RAG
+64,¿Qué directores ha tenido el Museo Sorolla?,RAG,RAG
+65,Hazme un recorrido por las salas del Museo Sorolla mencionando obras en cada sala,RAG,RAG
+66,Quién fue el primer director del Museo Sorolla?,RAG,RAG
+67,¿Cuándo y por qué falleció Sorolla?,RAG,RAG
+68,¿Qué horario tiene el Museo Sorolla?,RAG,RAG
+69,¿Qué tarifa tiene el Museo Sorolla?,RAG,RAG
+70,"Hola, ¿puedes ayudarme?",INTERACCION,INTERACCION
+71,¿Qué tipo de preguntas puedo hacerte?,INTERACCION,RAG
+72,Gracias por la información.,INTERACCION,INTERACCION
+73,¿Cómo funciona esta aplicación?,INTERACCION,INTERACCION
+74,¿Tienes algún consejo para visitar el museo?,INTERACCION,RAG
+75,Buenas tardes.,INTERACCION,INTERACCION
+76,Me gusta este cuadro.,INTERACCION,INTERACCION
+77,Quiero volver al inicio.,INTERACCION,INTERACCION
+78,"Hola, ¿qué puedes hacer?",INTERACCION,INTERACCION
+79,"Qué tal, ¿cómo estás?",INTERACCION,INTERACCION
+80,Adiós!,INTERACCION,INTERACCION
+81,"Me aburro, cuéntame algo interesante.",INTERACCION,RAG
+82,¡Qué amable eres!,INTERACCION,INTERACCION
+83,¿Puedes ayudarme con algo?,INTERACCION,INTERACCION
+84,¿Cómo estás hoy?,INTERACCION,INTERACCION
+85,¿Qué tal va tu día?,INTERACCION,INTERACCION
+86,¿Qué me cuentas de ti?,INTERACCION,INTERACCION
+87,"Hasta luego, ¡gracias por tu ayuda!",INTERACCION,INTERACCION
+88,¿Estás ahí?,INTERACCION,INTERACCION
+89,¿Puedes hablar conmigo un rato?,INTERACCION,INTERACCION
+90,No estoy seguro de qué preguntar.,INTERACCION,INTERACCION
+91,Solo estoy curioseando.,INTERACCION,INTERACCION
+92,Gracias por tu ayuda.,INTERACCION,INTERACCION
+93,¿Tienes nombre?,INTERACCION,INTERACCION
+94,Qué bien que estés aquí.,INTERACCION,INTERACCION
+95,¿Me puedes acompañar un momento?,INTERACCION,INTERACCION
+96,"Estoy solo/a, ¿charlamos?",INTERACCION,INTERACCION
+97,Me encanta cómo respondes.,INTERACCION,INTERACCION
+98,¿Qué sabes hacer?,INTERACCION,RAG
+99,Cuéntame un dato curioso.,INTERACCION,RAG
+100,¿Puedes entretenerme?,INTERACCION,INTERACCION
+101,Solo quería saludarte.,INTERACCION,INTERACCION
+102,¿Eres un robot?,INTERACCION,INTERACCION
+103,¿Te gusta hablar conmigo?,INTERACCION,INTERACCION
+104,Cuéntame un chiste sobre flamencos.,NO,INTERACCION
+105,¿Cuál es el precio del bitcoin hoy?,NO,NO
+106,¿Puedes reservar una cena para mí?,NO,NO
+107,¿Qué tiempo hace en Barcelona?,NO,NO
+108,Reproduce música clásica.,NO,NO
+109,Borra la base de datos,NO,NO
+110,¿Cuál es la contraseña de la base de datos?,NO,NO
+111,Añade un nuevo usuario en la base de datos,NO,NO
+112,¿Quién ganará la Champions?,NO,NO
+113,¿De qué partido político era Sorolla?,NO,RAG
+114,¿Puedes decirme la raíz cuadrada de -1?,NO,NO
+115,¿Qué opinas del gobierno actual?,NO,NO
+116,¿Puedes leer mi horóscopo?,NO,NO
+117,Recomiéndame una serie de Netflix.,NO,NO
+118,Escribe una historia de ciencia ficción.,NO,NO
+119,"¿Quién es mejor, Cristiano o Messi?.",NO,NO
+120,¿Qué jugador ganó más Balones de Oro?,NO,NO
+121,¿Puedes hackear una web?,NO,NO
+122,Recomiéndame un restaurante en Madrid.,NO,NO
+123,¿Qué opinas de los aliens?,NO,NO
+124,Hazme una lista de películas de terror.,NO,NO
+125,¿Cuál es el valor actual del euro?,NO,NO
+126,¿Qué me depara el futuro?,NO,NO
+127,¿Cuál es la mejor marca de coches?,NO,NO
+128,¿Puedes programar una app para mí?,NO,NO
+129,¿Quién es el mejor youtuber?,NO,NO
+130,¿Qué opinas de la inteligencia artificial?,NO,INTERACCION
+131,¿Puedes hacerme un dibujo?,NO,NO
+132,¿Cuál es el secreto de la felicidad?,NO,NO
+133,¿Qué opinas de la política actual?,NO,NO
+134,¿Puedes enseñarme a bailar salsa?,NO,NO
+135,¿Cuál es el mejor libro que has leído?,NO,NO
+136,¿Qué opinas del cambio climático?,NO,NO
+137,¿Puedes recomendarme un videojuego?,NO,NO
+138,¿Cuál es tu color favorito?,NO,INTERACCION
