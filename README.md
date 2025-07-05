@@ -1,6 +1,8 @@
 # SoroIA: Un asistente virtual para el Museo Sorolla
 Forma parte del Trabajo de Fin de **Máster de Ciencia de Datos** por la Universidad Politécnica de Madrid. Computational Intelligence Group. Julio 2025.
+
 Autor: Federico Castejón Lozano. 
+
 Título completo del TFM: _SoroIA: Diseño e Implementación de un Sistema Conversacional basado en Modelos Grandes de Lenguaje para el Museo Sorolla_
 
 
@@ -8,11 +10,11 @@ Título completo del TFM: _SoroIA: Diseño e Implementación de un Sistema Conve
 
 **SoroIA** es un chatbot basado en inteligencia artificial diseñado para responder a preguntas de los visitantes del Museo Sorolla. Utiliza técnicas avanzadas de procesamiento del lenguaje natural, como:
 
-- Modelos grandes de lenguaje (**LLMs**)
-- Recuperación aumentada con generación (**_Retrieval-Augmented Generation_, RAG**)
-- Generación automática de consultas SQL (**_Text-to-SQL_**)
-- Visualización contextual de obras e imágenes
-- 
+* Modelos grandes de lenguaje (**LLMs**)
+* Recuperación aumentada con generación (**_Retrieval-Augmented Generation_, RAG**)
+* Generación automática de consultas SQL (**_Text-to-SQL_**)
+* Visualización contextual de obras e imágenes
+
 A continuación se muestra la arquitectura general del sistema:
 ![Arquitectura de SoroIA](assets/arquitectura.png)
 
